@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gh"
+  id="myeclipse.1446372410785"
+  context-root="/gh"
+  j2ee-spec="5.0"
+  archive="gh.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
